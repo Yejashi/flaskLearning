@@ -1,8 +1,0 @@
-export FLASK_APP=market
-    to set
-
-export FLASK_DEBUG=1
-    for debug 
-
-. /flaskEnv/bin/activate
-    for entering enviroment

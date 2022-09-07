@@ -1,0 +1,13 @@
+- Make sure python-virtualenv is installed
+
+- Make sure flask is installed
+
+- create enviroment
+    - python3 -m venv flaskEnv
+
+- Activate enviroment
+    . flaskEnv/bin/activate
+
+- while in enviroment
+    - export FLASK_APP=hello.py
+    - export FLASK_DEBUG=1
